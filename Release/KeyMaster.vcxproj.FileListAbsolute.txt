@@ -1,0 +1,12 @@
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.vcxproj.AssemblyReference.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.vcxproj.SuggestedBindingRedirects.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.MyForm.resources
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.MyForm1.resources
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.vcxproj.GenerateResource.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\KeyMaster\Release\KeyMaster.exe
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.vcxproj.AssemblyReference.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.vcxproj.SuggestedBindingRedirects.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.MyForm.resources
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.MyForm1.resources
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.vcxproj.GenerateResource.cache
+e:\ОАИП КУРСАЧ И ЛАБЫ\Долмат курсач\KeyMaster\Release\KeyMaster.exe
